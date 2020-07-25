@@ -12,7 +12,7 @@ on YouTube for Free of Cost
 
 - **Tutorial**
 
-Need to install NOX App  **(Android Emulator)** ONLY KITKAT Version  4.4 **[Download](https://www.bignox.com/blog/noxplayer-v6-6-1-0-release-note/)**
+- Need to install NOX App  **(Android Emulator)** ONLY KITKAT Version  4.4 **[Download](https://www.bignox.com/blog/noxplayer-v6-6-1-0-release-note/)**
 
 - You have To Prepare One Browser TAB with Youtube Login And Prepare TO create gmail Account in Nox
 
